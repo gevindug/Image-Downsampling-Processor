@@ -9,7 +9,7 @@ usage:
 
 python compileme.py <input file name(required)> <output file names(optional)>
 
-#### features:
+#### Features:
 
 1. jump statements can be used with labels as destination
 2. immediate constants for add, sub, mul and div instructions will be resolved automatically
